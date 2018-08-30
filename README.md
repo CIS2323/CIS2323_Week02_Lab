@@ -10,3 +10,5 @@
 * Primitive Var types
 * Input methods
 * OOP
+
+And yes, I can edit the README right here
